@@ -1,7 +1,9 @@
-solved.ac
+<h2><b>solved.ac<b></h2>
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khsung0)](https://solved.ac/khsung0/)
 
-Most Used Languages
+<h2><b>Most Used Languages<b></h2>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khsung)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
