@@ -1,4 +1,4 @@
-<b><h2>solved.ac</h2><b>
+<b><h2>Solved.ac</h2><b>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khsung0)](https://solved.ac/khsung0/)
   
