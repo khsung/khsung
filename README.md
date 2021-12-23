@@ -1,7 +1,7 @@
 <b><h2>Solved.ac</h2><b>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khsung0)](https://solved.ac/khsung0/)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khsung0)](https://solved.ac/khsung0/)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={khsung0})](https://solved.ac/{khsung0})
 <b><h2>Most Used Languages</h2><b>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khsung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
