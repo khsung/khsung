@@ -3,10 +3,10 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khsung0)](https://solved.ac/khsung0/)
 <b><h2>Most Used Languages</h2><b>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khsung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khsung0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**khsung/khsung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**khsung0/khsung0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
